@@ -1,11 +1,11 @@
 ---
 
 ubtu20cis_section1_patch: true
-ubtu20cis_section2_patch: true
-ubtu20cis_section3_patch: true
-ubtu20cis_section4_patch: true
-ubtu20cis_section5_patch: true
-ubtu20cis_section6_patch: true
+ubtu20cis_section2_patch: false
+ubtu20cis_section3_patch: false
+ubtu20cis_section4_patch: false
+ubtu20cis_section5_patch: false
+ubtu20cis_section6_patch: false
 
 # System will reboot if false, can give better audit results
 skip_reboot: true
@@ -116,7 +116,7 @@ ubtu20cis_rule_1_3_1: true
 ubtu20cis_rule_1_3_2: true
 ubtu20cis_rule_1_3_3: true
 ubtu20cis_rule_1_4_1: true
-ubtu20cis_rule_1_4_2: true
+ubtu20cis_rule_1_4_2: false
 ubtu20cis_rule_1_4_3: true
 ubtu20cis_rule_1_5_1: true
 ubtu20cis_rule_1_5_2: true
