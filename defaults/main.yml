@@ -368,7 +368,7 @@ ubtu20cis_rule_5_2_4_7: true
 ubtu20cis_rule_5_2_4_8: true
 ubtu20cis_rule_5_2_4_9: true
 ubtu20cis_rule_5_2_4_10: true
-ubtu20cis_rule_5_2_4_11: true
+ubtu20cis_rule_5_2_4_11: false
 
 # Section 6 Fixes
 # Section is Systme Maintenance (System File Permissions and User and Group Settings)
