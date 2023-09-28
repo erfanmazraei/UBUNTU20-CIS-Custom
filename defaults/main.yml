@@ -5,7 +5,7 @@ ubtu20cis_section2_patch: true
 ubtu20cis_section3_patch: true
 ubtu20cis_section4_patch: false
 ubtu20cis_section5_patch: false
-ubtu20cis_section6_patch: true
+ubtu20cis_section6_patch: false
 #  echo "ubuntu ALL=(ALL) NOPASSWD:ALL" | sudo tee /etc/sudoers.d/ubuntu
 # System will reboot if false, can give better audit results
 skip_reboot: true
