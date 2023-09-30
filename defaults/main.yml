@@ -227,17 +227,17 @@ ubtu20cis_rule_3_4_2_8: true
 ubtu20cis_rule_3_4_2_9: true
 ubtu20cis_rule_3_4_2_10: true
 # iptables
-ubtu20cis_rule_3_4_3_1_1: false
-ubtu20cis_rule_3_4_3_1_2: false
-ubtu20cis_rule_3_4_3_1_3: false
-ubtu20cis_rule_3_4_3_2_1: false
-ubtu20cis_rule_3_4_3_2_2: false
-ubtu20cis_rule_3_4_3_2_3: false
-ubtu20cis_rule_3_4_3_2_4: false
-ubtu20cis_rule_3_4_3_3_1: false
-ubtu20cis_rule_3_4_3_3_2: false
-ubtu20cis_rule_3_4_3_3_3: false
-ubtu20cis_rule_3_4_3_3_4: false
+ubtu20cis_rule_3_4_3_1_1: true
+ubtu20cis_rule_3_4_3_1_2: true
+ubtu20cis_rule_3_4_3_1_3: true
+ubtu20cis_rule_3_4_3_2_1: true
+ubtu20cis_rule_3_4_3_2_2: true
+ubtu20cis_rule_3_4_3_2_3: true
+ubtu20cis_rule_3_4_3_2_4: true
+ubtu20cis_rule_3_4_3_3_1: true
+ubtu20cis_rule_3_4_3_3_2: true
+ubtu20cis_rule_3_4_3_3_3: true
+ubtu20cis_rule_3_4_3_3_4: true
 
 # Section 4 Fixes
 # Section 4 is Access Authentication and job schedulers
