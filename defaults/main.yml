@@ -5,7 +5,7 @@ ubtu20cis_section2_patch: true
 ubtu20cis_section3_patch: true
 ubtu20cis_section4_patch: false
 ubtu20cis_section5_patch: false
-ubtu20cis_section6_patch: false
+ubtu20cis_section6_patch: true
 #  echo "ubuntu ALL=(ALL) NOPASSWD:ALL" | sudo tee /etc/sudoers.d/ubuntu
 # System will reboot if false, can give better audit results
 skip_reboot: true
@@ -427,7 +427,7 @@ ubtu20cis_rsh_required: false
 ubtu20cis_talk_required: false
 ubtu20cis_telnet_required: false
 ubtu20cis_ldap_clients_required: false
-ubtu20cis_is_router: false
+ubtu20cis_is_router: true
 
 # IPv4 requirement toggle
 ubtu20cis_ipv4_required: true
